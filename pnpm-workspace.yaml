@@ -1,0 +1,15 @@
+allowBuilds:
+  esbuild: true
+  sharp: true
+  canvas: true
+  unrs-resolver: true
+  svelte-preprocess: true
+  workerd: true
+  core-js: true
+  core-js-pure: true
+  node-sass: true
+  "@fortawesome/fontawesome-free": true
+  "@tsparticles/engine": true
+  tsparticles-engine: true
+overrides:
+  postcss: ^8.5.15
